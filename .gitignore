@@ -1,0 +1,10 @@
+# Creditsafe PDF reports (contain sensitive company data)
+*.pdf
+
+# OS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/
