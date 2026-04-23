@@ -1,10 +1,6 @@
 ---
 name: creditsafe-report-analyzer
-description: >
-  Parse Creditsafe PDF credit reports and generate structured risk narrative
-  summaries for merchant onboarding decisions. Use when the user asks to analyze
-  a Creditsafe report, assess credit risk for UK entities, or produce due
-  diligence narratives.
+description: "Parse Creditsafe PDF credit reports and generate structured risk narrative summaries for merchant onboarding decisions. Use when the user asks to analyze, assess, review, evaluate, or summarize a Creditsafe report, credit risk for UK entities, or due diligence narratives."
 metadata:
   author: mcsanchez
   version: "0.1.0"
