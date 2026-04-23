@@ -4,7 +4,7 @@ description: "Parse Creditsafe PDF credit reports and generate structured risk n
 metadata:
   author: mcsanchez
   version: "0.1.0"
-  status: experimental
+  status: experimental
 ---
 
 # Creditsafe Report Analyzer
