@@ -6,6 +6,8 @@ description: >
   a Creditsafe report, assess credit risk for UK entities, or produce due
   diligence narratives.
 metadata:
+  author: mcsanchez
+  version: "0.1.0"
   status: experimental
 ---
 
